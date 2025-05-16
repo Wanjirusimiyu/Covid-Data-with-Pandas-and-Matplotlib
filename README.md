@@ -84,22 +84,6 @@ This project explores, analyzes, and visualizes COVID-19 data using Python libra
 4. Run each cell in order to see the analysis and visualizations
 
 
-## What I Learned
-
-- How to clean and inspect large datasets with Pandas
-- How to visualize trends, comparisons, and relationships in data using Matplotlib and Seaborn
-- How to interpret real-world public health data and make data-driven observations
-- How to use Google Colab for collaborative data analysis
-
-
-## Future Improvements
-
-- Add interactivity using Plotly or Dash
-- Perform time-series forecasting with ARIMA or Prophet
-- Explore vaccination data alongside case and death trends
-- Build a dashboard or web app to share findings
-
-
 ## References
 
 - [Our World in Data – COVID-19 Data](https://ourworldindata.org/coronavirus)
